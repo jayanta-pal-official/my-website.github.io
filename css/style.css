@@ -711,7 +711,8 @@ button:hover{
  
 }
 
-@media only screen and (max-width:643px){
+
+@media only screen and (max-width:480px) {
     .full_box .heading{
         width: 100%;
      
@@ -726,64 +727,41 @@ button:hover{
     }
 
 
-
-    
-    
-   
-    
- 
-}
-@media only screen and (max-width:500px){
     .logo-section img {
         float: left;
-        width: 128px;
+        width: 151px;
         height: auto;
-        margin: 0px;
-        padding: 0px;
-        margin-top: -19px;
-        margin-left: -60px;
+        margin: -5px;
+        padding: -2px;
+        margin-top: -44px;
+        margin-left: -59px;
     }
     .container .hamburger{
         float: right;
-        width: 45px;
+        width: 162px;
         height: auto;
-        margin: -20px;
+        margin: -23px;
         padding: 6px;
-        margin-top: -148px;
-        margin-right: -41px;
+        margin-top: -166px;
+        margin-left: 257px;
 
     }
     .search-ber {
-        margin-top: -5px;
-        margin-left: -32px; 
+        margin-top: -32px;
+        margin-left: 5px;
     }
-    .content .container .hamburger{
-    float: right;
-    width: 61px;
-    height: auto;
-    margin: -19px;
-    padding: 6px;
-    margin-top: -25px;
-    margin-right: -43px;
-
-    }
-    nav ul.show {
-        display: none;
-    }
-    
-    
-    
     .centerdiv {
         height: 100vh;
         display: flex;
         justify-content: center;
-        margin: -500px 0px;
+        margin: -309px 0px;
     }
    
     .content .animation h2 {
-        position: absolute;
-        margin-top: 373px;
-        margin-left: 25px;
+       
+    
+        margin-top: 186px;
+        margin-left: 18px;
         font-size: 14px;
     }
     
@@ -798,34 +776,32 @@ button:hover{
         
     }
     .about img {
-        height: 21vh;
-        width: 95%;
-        border-radius: 50%;
-        margin-top: -39px;
-        margin-left: 13px;
+        
+    height: 33vh;
+    width: 166%;
+    border-radius: 50%;
+    margin-top: -68px;
+
     }
    .about-text{
-     width: 415px;
+     width: 314px;
      margin-top: 14px;
    }
    .about-text h1{
-    font-size: 82px;
-    margin-left: 3px;
+    font-size: 63px;
    }
    .about-text h6{
      margin-top: 63px;
-     margin-left: 94px;
+     margin-left: 36px;
    }
 
    .about-text  button {
    
-    margin-left: 154px;
+    margin-left: 100px;
    }
    .about-text h5{
-    width: 406px;
-   font-size: 25px;
-   
-    margin-left: 11px;
+    width: 345px;
+    font-size: 19px;
     margin-top: -6px;
     
    }
@@ -837,14 +813,10 @@ button:hover{
     height: 44px;
    }
    .dream .photo .wrapper {
-    width: 100%;
-    margin-left: 0px;
+    width: 74%;
+    margin-left: 56px;
   
-  }
-
-
-
-
+}
 
 
    
