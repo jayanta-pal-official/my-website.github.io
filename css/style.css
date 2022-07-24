@@ -743,7 +743,7 @@ button:hover{
         margin: -23px;
         padding: 6px;
         margin-top: -166px;
-        margin-left: 257px;
+        margin-left: 263px;
 
     }
     .search-ber {
@@ -754,13 +754,13 @@ button:hover{
         height: 100vh;
         display: flex;
         justify-content: center;
-        margin: -309px 0px;
+        margin: -357px 0px;
     }
    
     .content .animation h2 {
        
     
-        margin-top: 186px;
+        margin-top: 257px;
         margin-left: 18px;
         font-size: 14px;
     }
@@ -813,8 +813,8 @@ button:hover{
     height: 44px;
    }
    .dream .photo .wrapper {
-    width: 74%;
-    margin-left: 56px;
+    width: 80%;
+    margin-left: 48px;
   
 }
 
