@@ -750,27 +750,11 @@ button:hover{
         margin-top: -32px;
         margin-left: 5px;
     }
-    .centerdiv {
-        height: 100vh;
-        display: flex;
-        justify-content: center;
-        margin: -357px 0px;
-    }
+
    
-    .content .animation h2 {
-       
     
-        margin-top: 257px;
-        margin-left: 18px;
-        font-size: 14px;
-    }
     
-    .principal h1 {
-        width: 313px;
-        margin-top: 0%;
-        font-size: 19px;
-        
-    }
+
     .main{
         flex-direction: column;
         
@@ -813,9 +797,32 @@ button:hover{
     height: 44px;
    }
    .dream .photo .wrapper {
-    width: 80%;
-    margin-left: 48px;
+    width: 85%;
+    margin-left: 36px;
   
+}
+.content .animation h2 {
+       
+    
+    margin-top: 257px;
+    margin-left: 18px;
+    font-size: 14px;
+}
+
+
+.centerdiv {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    margin: -385px 0px;
+}
+
+
+.principal h1 {
+    width: 313px;
+    margin-top: 0%;
+    font-size: 19px;
+    
 }
 
 
